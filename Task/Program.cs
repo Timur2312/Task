@@ -1,4 +1,5 @@
-﻿string[] mass = { "Hello",  "Привет",  "How are you",  "Hi", "Bye" };
+﻿// Контрольная работа
+string[] mass = { "Hello",  "Привет",  "How are you",  "Hi", "Bye" };
 string[] GetNewMassIf (string[] mass)
 {
     string [] newMass = new string[mass.Length];
